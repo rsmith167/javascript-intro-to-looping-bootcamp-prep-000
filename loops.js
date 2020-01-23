@@ -21,3 +21,6 @@ function whileLoop(number){
   var stringDone = "done"
   return stringDone
 }
+function doWhileLoop(number){
+  
+}
